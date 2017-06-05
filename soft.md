@@ -1,0 +1,16 @@
+# default soft
+- brew
+- iterm
+- rvm
+- ruby
+- chef sdk
+- spotify
+- bitbar
+- docker
+- intellij idea ce
+- postgresql
+- pgadmin
+- atom
+- chrome
+- telegram
+- slack
