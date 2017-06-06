@@ -1,5 +1,8 @@
 # default kit
 - brew
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 - git
 - [iterm](https://iterm2.com/downloads/stable/latest)
 - oh-my-zsh
