@@ -25,7 +25,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 - [intellij idea ce]()
 - [postgresql]()
 - [pgadmin](http://postgresapp.com/)
-- [atom]()
+- [atom](https://atom.io/download/mac)
 - [chrome]()
 - [telegram]()
 - [slack]()
