@@ -17,15 +17,18 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 \curl -sSL https://get.rvm.io | bash -s stable --ruby)
 ```
-- [ruby]
-- [chef sdk]()
-- [spotify]()
+- ruby
+```
+gem install bundle
+```
+- chef sdk()
+- spotify()
 - [bitbar](https://github.com/matryer/bitbar/releases/latest)
-- [docker]()
-- [intellij idea ce]()
-- [postgresql]()
-- [pgadmin](http://postgresapp.com/)
+- docker()
+- intellij idea ce()
+- [postgresql](http://postgresapp.com/)
+- pgadmin()
 - [atom](https://atom.io/download/mac)
-- [chrome]()
-- [telegram]()
-- [slack]()
+- chrome()
+- telegram()
+- slack()
