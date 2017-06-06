@@ -1,4 +1,4 @@
-# default soft
+# default kit
 - brew
 - git
 - [iterm](https://iterm2.com/downloads/stable/latest)
