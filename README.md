@@ -13,7 +13,10 @@ $ git config --global user.email johndoe@example.com
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 ```
-- [rvm]()
+- rvm
+```
+\curl -sSL https://get.rvm.io | bash -s stable --ruby)
+```
 - [ruby]
 - [chef sdk]()
 - [spotify]()
