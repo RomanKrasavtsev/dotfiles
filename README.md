@@ -4,6 +4,10 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 - git
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
 - [iterm](https://iterm2.com/downloads/stable/latest)
 - oh-my-zsh
 ```
