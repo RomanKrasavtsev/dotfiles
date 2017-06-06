@@ -17,7 +17,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 - [ruby]
 - [chef sdk]()
 - [spotify]()
-- [bitbar]()
+- [bitbar](https://github.com/matryer/bitbar/releases/latest)
 - [docker]()
 - [intellij idea ce]()
 - [postgresql]()
