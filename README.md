@@ -24,7 +24,7 @@ gem install bundle
 - chef sdk()
 - spotify()
 - [bitbar](https://github.com/matryer/bitbar/releases/latest)
-- docker()
+- [docker](https://download.docker.com/mac/stable/Docker.dmg)
 - intellij idea ce()
 - [postgresql](http://postgresapp.com/)
 - pgadmin()
