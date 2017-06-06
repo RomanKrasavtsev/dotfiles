@@ -1,6 +1,8 @@
 # default soft
 - [brew]
 - [iterm](https://iterm2.com/downloads/stable/latest)
+- [oh-my-zsh]
+`sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")`
 - [rvm]()
 - [ruby]
 - [chef sdk]()
