@@ -1,16 +1,16 @@
 # default soft
-- brew
-- iterm
-- rvm
-- ruby
-- chef sdk
-- spotify
-- bitbar
-- docker
-- intellij idea ce
-- postgresql
-- pgadmin
-- atom
-- chrome
-- telegram
-- slack
+- [brew]
+- [iterm](https://iterm2.com/downloads/stable/latest)
+- [rvm]()
+- [ruby]
+- [chef sdk]()
+- [spotify]()
+- [bitbar]()
+- [docker]()
+- [intellij idea ce]()
+- [postgresql]()
+- [pgadmin]()
+- [atom]()
+- [chrome]()
+- [telegram]()
+- [slack]()
